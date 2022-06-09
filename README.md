@@ -45,7 +45,7 @@ Reconator receives all the targets needs to be reconed via a Web Interface and a
 
 ## ⚙️ Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/gokulapap/reconator](https://github.com/PirateLuffy328/Reconator?organization=PirateLuffy328&organization=PirateLuffy328))
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PirateLuffy328/Reconator?organization=PirateLuffy328&organization=PirateLuffy328)
 
 ## 📋 Requirements
 
